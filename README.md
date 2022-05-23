@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @MrMcSnail
-- 👀 I’m interested in learning programming
-- [arr]{function}(per) I’m currently learning JavaScript
-- 🤓 I’m looking to collaborate on anything that is good for a Noob.
+I’m currently undertaking Northcoders’ Software Development bootcamp to become a Full-Stack Developer.
 
+Previous to this I have been a Primary Teacher (6yrs) and an Actor (10 yrs).
+
+
+I think software has a real power to drive change in people’s lives, in organisations and in society. I’m passionate about finding solutions for people that truly work. I believe that people-centred solutions don’t just solve problems, but provide new paradigms for living, working and thriving.
 <!---
 MrMcSnail/MrMcSnail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

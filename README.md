@@ -1,3 +1,5 @@
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/mrmcsnail/my-stack)
+
 I’m currently undertaking Northcoders’ Software Development bootcamp to become a Full-Stack Developer.
 
 Previous to this I have been a Primary Teacher (6yrs) and an Actor (10 yrs).
